@@ -7,6 +7,7 @@ Bookmarks on Artificial Intelligence
 ## 2018
 Feed Forward Neural Network - http://www.rueckstiess.net/snippets/show/17a86039 <br />
 BackPropogation - https://www.edureka.co/blog/backpropagation/ <br />
+Online calcuator - http://www.calcul.com/ <br />
 
 -----
 ## License
