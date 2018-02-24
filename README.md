@@ -12,6 +12,7 @@ Calculus on Computational Graphs: Backpropagation - http://colah.github.io/posts
 BackPropogation - https://www.edureka.co/blog/backpropagation/ <br />
 Online calcuator - http://www.calcul.com/ <br />
 Machine Learning CheatSheet - http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html#derivatives <br />
+Deep Learning (Udacity) - https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV <br />
 
 -----
 ## License
