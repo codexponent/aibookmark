@@ -8,6 +8,7 @@ Bookmarks on Artificial Intelligence
 Feed Forward Neural Network - http://www.rueckstiess.net/snippets/show/17a86039 <br />
 Tensorflow feed forward - https://www.kdnuggets.com/2017/10/tensorflow-building-feed-forward-neural-networks-step-by-step.html<br />
 Convolutional Neural Networks for Visual Recognition - http://cs231n.github.io/ <br />
+Calculus on Computational Graphs: Backpropagation - http://colah.github.io/posts/2015-08-Backprop/ <br />
 BackPropogation - https://www.edureka.co/blog/backpropagation/ <br />
 Online calcuator - http://www.calcul.com/ <br />
 
