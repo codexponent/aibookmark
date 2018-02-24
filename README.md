@@ -11,6 +11,7 @@ Convolutional Neural Networks for Visual Recognition - http://cs231n.github.io/ 
 Calculus on Computational Graphs: Backpropagation - http://colah.github.io/posts/2015-08-Backprop/ <br />
 BackPropogation - https://www.edureka.co/blog/backpropagation/ <br />
 Online calcuator - http://www.calcul.com/ <br />
+Machine Learning CheatSheet - http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html#derivatives <br />
 
 -----
 ## License
