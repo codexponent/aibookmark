@@ -8,6 +8,7 @@ Bookmarks on Artificial Intelligence
 Feed Forward Neural Network - http://www.rueckstiess.net/snippets/show/17a86039 <br />
 Tensorflow feed forward - https://www.kdnuggets.com/2017/10/tensorflow-building-feed-forward-neural-networks-step-by-step.html<br />
 feed forward on Tensorflow(Git) - https://gist.github.com/vinhkhuc/e53a70f9e5c3f55852b0<br />
+Creating a Neural Network from Scratch — TensorFlow - https://medium.com/@curiousily/tensorflow-for-hackers-part-iv-neural-network-from-scratch-1a4f504dfa8 <br />
 Convolutional Neural Networks for Visual Recognition - http://cs231n.github.io/ <br />
 Calculus on Computational Graphs: Backpropagation - http://colah.github.io/posts/2015-08-Backprop/ <br />
 BackPropogation - https://www.edureka.co/blog/backpropagation/ <br />
