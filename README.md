@@ -16,6 +16,7 @@ BackPropogation - https://www.edureka.co/blog/backpropagation/ <br />
 Online calcuator - http://www.calcul.com/ <br />
 Machine Learning CheatSheet - http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html#derivatives <br />
 Deep Learning (Udacity) - https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV <br />
+3 months course - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months <br />
 
 -----
 ## License
