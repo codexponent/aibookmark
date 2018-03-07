@@ -12,6 +12,7 @@ Bookmarks on Artificial Intelligence
 - Feed Forward Neural Network - http://www.rueckstiess.net/snippets/show/17a86039 <br />
 - Dan Aloni's blog(solved form this) - http://blog.aloni.org/posts/backprop-with-tensorflow/ <br />
 - Tensorflow feed forward - https://www.kdnuggets.com/2017/10/tensorflow-building-feed-forward-neural-networks-step-by-step.html<br />
+- Convolution Neural Network(CNN) it's basic and it's working mechanisms (Theory): http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/<br />
 feed forward on Tensorflow(Git) - https://gist.github.com/vinhkhuc/e53a70f9e5c3f55852b0<br />
 - Creating a Neural Network from Scratch — TensorFlow - https://medium.com/@curiousily/tensorflow-for-hackers-part-iv-neural-network-from-scratch-1a4f504dfa8 <br />
 - Convolutional Neural Networks for Visual Recognition - http://cs231n.github.io/ <br />
