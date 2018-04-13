@@ -23,7 +23,7 @@ feed forward on Tensorflow(Git) - https://gist.github.com/vinhkhuc/e53a70f9e5c3f
 - Online calcuator - http://www.calcul.com/ <br />
 - Machine Learning CheatSheet - http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html#derivatives <br />
 - Deep Learning (Udacity) - https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV <br />
-- 3 months course - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months <br />
+- 3 months course - https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months .<br />
 
 ## Copyright and License
 -------
